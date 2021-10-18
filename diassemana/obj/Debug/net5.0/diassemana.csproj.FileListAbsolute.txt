@@ -1,0 +1,16 @@
+C:\projetos\ams\1ano\IfElsedayofweek\diassemana\bin\Debug\net5.0\diassemana.exe
+C:\projetos\ams\1ano\IfElsedayofweek\diassemana\bin\Debug\net5.0\diassemana.deps.json
+C:\projetos\ams\1ano\IfElsedayofweek\diassemana\bin\Debug\net5.0\diassemana.runtimeconfig.json
+C:\projetos\ams\1ano\IfElsedayofweek\diassemana\bin\Debug\net5.0\diassemana.runtimeconfig.dev.json
+C:\projetos\ams\1ano\IfElsedayofweek\diassemana\bin\Debug\net5.0\diassemana.dll
+C:\projetos\ams\1ano\IfElsedayofweek\diassemana\bin\Debug\net5.0\ref\diassemana.dll
+C:\projetos\ams\1ano\IfElsedayofweek\diassemana\bin\Debug\net5.0\diassemana.pdb
+C:\projetos\ams\1ano\IfElsedayofweek\diassemana\obj\Debug\net5.0\diassemana.csproj.AssemblyReference.cache
+C:\projetos\ams\1ano\IfElsedayofweek\diassemana\obj\Debug\net5.0\diassemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\1ano\IfElsedayofweek\diassemana\obj\Debug\net5.0\diassemana.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\IfElsedayofweek\diassemana\obj\Debug\net5.0\diassemana.AssemblyInfo.cs
+C:\projetos\ams\1ano\IfElsedayofweek\diassemana\obj\Debug\net5.0\diassemana.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\IfElsedayofweek\diassemana\obj\Debug\net5.0\diassemana.dll
+C:\projetos\ams\1ano\IfElsedayofweek\diassemana\obj\Debug\net5.0\ref\diassemana.dll
+C:\projetos\ams\1ano\IfElsedayofweek\diassemana\obj\Debug\net5.0\diassemana.pdb
+C:\projetos\ams\1ano\IfElsedayofweek\diassemana\obj\Debug\net5.0\diassemana.genruntimeconfig.cache
